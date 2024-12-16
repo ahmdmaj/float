@@ -1,0 +1,18 @@
+#div1{
+    background-color: aqua;
+    width: 500px;
+    float: right;
+}
+
+#div2{
+    background-color: bisque;
+    width: 300px;
+    float: left;
+}
+.img{
+    float: left;
+}
+footer{
+    background-color: blueviolet;
+    clear: left;
+}
